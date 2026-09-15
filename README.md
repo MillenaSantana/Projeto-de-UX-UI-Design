@@ -85,7 +85,7 @@ dificuldades de navegação e realizar ajustes na interface.
 Para visualizar o arquivo original, incluindo a estrutura e o design
 desenvolvido no projeto:
 
-<a href="(https://www.figma.com/proto/MUlXg2C0aMpSSPhUXHP3uP/WEPINK-UX-ENTREGUE?node-id=0-1&p=f&t=4bGlDIS2cUj4T2eu-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A192&show-proto-sidebar=1)">
+<a href="https://www.figma.com/design/MUlXg2C0aMpSSPhUXHP3uP/WEPINK-UX-ENTREGUE?node-id=0-1&p=f&t=hPqYusPOdGE6JYuG-0">
   <img src="https://img.shields.io/badge/VER_PROJETO_NO_FIGMA-7B2CBF?style=for-the-badge&logo=figma&logoColor=white"/>
 </a>
 
