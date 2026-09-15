@@ -93,7 +93,7 @@ desenvolvido no projeto:
 
 A documentação acadêmica completa do projeto está disponível em PDF:
 
-<a href="docs/Squad-de-Alto-Desempenho.pdf">
+<a href="Squad de alto desempenho.pdf">
   <img src="https://img.shields.io/badge/VER_DOCUMENTAÇÃO-4361EE?style=for-the-badge"/>
 </a>
 
