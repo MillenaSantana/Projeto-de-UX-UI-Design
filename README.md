@@ -1,16 +1,20 @@
+
 <div align="center">
 
-# WEPINK UX
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF4FA3&height=180&section=header&text=WEPINK%20UX&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50"/>
+
+</div>
+
 
 ### Redesign de Interface e Jornada do Usuário
 
 Projeto acadêmico desenvolvido para a disciplina de Interface e Jornada do Usuário.
 
 <br>
-
 <a href="https://www.figma.com/proto/MUlXg2C0aMpSSPhUXHP3uP/WEPINK-UX-ENTREGUE?node-id=5-192&p=f&t=4bGlDIS2cUj4T2eu-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A192&show-proto-sidebar=1">
   <img src="https://img.shields.io/badge/VER_PROTÓTIPO-F24E8E?style=for-the-badge&logo=figma&logoColor=white"/>
 </a>
+
 
 </div>
 
